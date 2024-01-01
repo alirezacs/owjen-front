@@ -1,0 +1,11 @@
+.swatch-footer{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+}
+@media screen and (max-width:500px) {
+    .swatch-footer{
+        display: flex;
+    }
+}

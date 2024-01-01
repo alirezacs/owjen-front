@@ -1,0 +1,146 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Ash | دودی",
+            "swatches": [
+                {
+                    "id": 1,
+                    "name": "c1-1.1",
+                    "shortName": "Blue Black | مشکی پرکلاغی",
+                    "image": "C1-1.1.png",
+                    "models": [
+                        "C1-1.1ModelA.png",
+                        "C1-1.1ModelB.png",
+                        "C1-1.1ModelC.png",
+                        "C1-1.1ModelD.png",
+                        "C1-1.1ModelH.png"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "c2-3.1",
+                    "shortName": "Dark Ash Brown | قهوه ای دودی تیره",
+                    "image": "C2-3.1.png",
+                    "models": [
+                        "C2-3.1ModelA.png",
+                        "C2-3.1ModelB.png",
+                        "C2-3.1ModelC.png",
+                        "C2-3.1ModelD.png",
+                        "C2-3.1ModelH.png"
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "c3-4.1",
+                    "shortName": "Medium Ash Brown | قهوه ای دودی متوسط",
+                    "image": "C3-4.1.png",
+                    "models": [
+                        "C3-4.1ModelA.png",
+                        "C3-4.1ModelB.png",
+                        "C3-4.1ModelC.png",
+                        "C3-4.1ModelD.png",
+                        "C3-4.1ModelH.png"
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "c4-5.1",
+                    "shortName": "Light Ash Brown | قهوه ای دودی روشن",
+                    "image": "C4-5.1.png",
+                    "models": [
+                        "C4-5.1ModelA.png",
+                        "C4-5.1ModelB.png",
+                        "C4-5.1ModelC.png",
+                        "C4-5.1ModelD.png",
+                        "C4-5.1ModelH.png"
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "c5-6.1",
+                    "shortName": "Dark Ash Blonde | بلوند دودی تیره",
+                    "image": "C5-6.1.png",
+                    "models": [
+                        "C5-6.1ModelA.png",
+                        "C5-6.1ModelB.png",
+                        "C5-6.1ModelC.png",
+                        "C5-6.1ModelD.png",
+                        "C5-6.1ModelH.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MATT | زیتونی",
+            "swatches": [
+                {
+                    "id": 1,
+                    "name": "m2-3.2",
+                    "shortName": "Dark Matt Brown | قهوه ای زیتونی تیره",
+                    "image": "M2-3.2.png",
+                    "models": [
+                        "M2-3.2ModelA.png",
+                        "M2-3.2ModelB.png",
+                        "M2-3.2ModelC.png",
+                        "M2-3.2ModelD.png",
+                        "M2-3.2ModelH.png"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "m3-4.2",
+                    "shortName": "Medium Matt Brown | قهوه ای زیتونی متوسط",
+                    "image": "M3-4.2.png",
+                    "models": [
+                        "M3-4.2ModelA.png",
+                        "M3-4.2ModelB.png",
+                        "M3-4.2ModelC.png",
+                        "M3-4.2ModelD.png",
+                        "M3-4.2ModelH.png"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "m4-5.2",
+                    "shortName": "Light Matt Brown | قهوه ای زیتونی روشن",
+                    "image": "M4-5.2.png",
+                    "models": [
+                        "M4-5.2ModelA.png",
+                        "M4-5.2ModelB.png",
+                        "M4-5.2ModelC.png",
+                        "M4-5.2ModelD.png",
+                        "M4-5.2ModelH.png"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "m5-6.2",
+                    "shortName": "Dark Matt Blonde | بلوند زیتونی تیره",
+                    "image": "M5-6.2.png",
+                    "models": [
+                        "M5-6.2ModelA.png",
+                        "M5-6.2ModelB.png",
+                        "M5-6.2ModelC.png",
+                        "M5-6.2ModelD.png",
+                        "M5-6.2ModelH.png"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "m6-7.2",
+                    "shortName": "Medium Matt Blonde | بلوند زیتونی متوسط",
+                    "image": "M6-7.2.png",
+                    "models": [
+                        "M6-7.2ModelA.png",
+                        "M6-7.2ModelB.png",
+                        "M6-7.2ModelC.png",
+                        "M6-7.2ModelD.png",
+                        "M6-7.2ModelH.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

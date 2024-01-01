@@ -1,0 +1,29 @@
+.model-footer{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+.model-footer span{
+    font-size: 13px;
+    color: #333;
+    margin-right: 15px;
+    animation: modelFooterAnimation infinite 1s;
+}
+@keyframes modelFooterAnimation{
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@media screen and (max-width:500px) {
+    .model-footer{
+        display: flex;
+        flex-direction: column;
+    }
+}

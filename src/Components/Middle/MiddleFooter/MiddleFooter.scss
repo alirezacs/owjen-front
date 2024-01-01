@@ -1,0 +1,12 @@
+.middle-footer{
+    padding: 2rem 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width:500px) {
+    .middle-footer{
+        display: flex;
+    }
+}

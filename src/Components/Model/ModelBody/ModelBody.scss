@@ -1,0 +1,13 @@
+.model-body{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 3rem;
+    justify-content: space-around;
+}
+.model-item{
+    display: flex;
+    justify-content: center;
+}
+.model-item img{
+    width: 90px;
+}

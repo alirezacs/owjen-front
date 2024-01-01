@@ -1,0 +1,25 @@
+.swatch-body{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+.swatch-body::-webkit-scrollbar{
+    width: 3px;
+    background-color: transparent;
+    transition: 0.5s;
+}
+.swatch-body::-webkit-scrollbar-track{
+    background-color: transparent; 
+}
+.swatch-body::-webkit-scrollbar-thumb{
+    background-color: transparent;
+}
+.swatch-body:hover::-webkit-scrollbar{
+    width: 3px;
+}
+.swatch-body:hover::-webkit-scrollbar-track{
+    background-color: #999;
+}
+.swatch-body:hover::-webkit-scrollbar-thumb{
+    background-color: #333;
+}

@@ -1,0 +1,31 @@
+.middle-header{
+    padding: 2rem;
+    display: flex;
+    direction: ltr;
+    text-align: left;
+}
+@media screen and (max-width:500px) {
+    .middle-header{
+        text-align: center;
+    }    
+}
+.middle-header *{
+    font-family: 'kadwa';
+}
+.swatch-image img{
+    width: 90px;
+}
+.swatch-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+.swatch-name{
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 3.3rem;
+}
+.swatch-shortname{
+    font-size: 14px;
+    font-weight: bold;
+}
